@@ -1,12 +1,21 @@
-import './App.css'
+import './App.css';
+import './style/app.scss'
 import React from "react";
-import Spline from "@splinetool/react-spline";
+import Menu from "./Components/Menu.jsx";
+import Desk from "./Components/Desk.jsx";
+import Carac from "./Components/Carac.jsx";
+import Colors from "./Components/Colors.jsx";
+import Contact from "./Components/Contact.jsx";
 
 function App() {
 
   return (
     <div className="App">
-      <Spline scene="https://prod.spline.design/VcFomkg1shAqKtTp/scene.splinecode" />
+      <Menu/>
+      <Desk/>
+      <Carac/>
+      <Colors/>
+      <Contact/>
     </div>
   )
 }

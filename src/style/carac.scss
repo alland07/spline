@@ -1,0 +1,15 @@
+section, #caracteristiques{
+  width: 100%;
+  height: 50vh;
+  .content{
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    .canvasStyle{
+      max-width: 50% !important;
+    }
+    .deskCarac{
+
+    }
+  }
+}

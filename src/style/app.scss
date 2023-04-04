@@ -1,0 +1,24 @@
+.app{
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+header{
+  width: 100%;
+  nav{
+    margin: 0 auto;
+    ul{
+      li{
+        margin: 2em;
+        display: inline-block;
+        list-style: none;
+      }
+    }
+  }
+}
+@import 'desk';
+@import 'carac';
+@import 'colors';
+@import 'contact';
+@import 'footer';
