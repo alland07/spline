@@ -6,6 +6,7 @@ import Desk from "./Components/Desk.jsx";
 import Carac from "./Components/Carac.jsx";
 import Colors from "./Components/Colors.jsx";
 import Contact from "./Components/Contact.jsx";
+import Footer from "./Components/Footer.jsx";
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
       <Carac/>
       <Colors/>
       <Contact/>
+      <Footer />
     </div>
   )
 }

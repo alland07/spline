@@ -1,15 +1,21 @@
 section, #caracteristiques{
   width: 100%;
-  height: 50vh;
+  height: auto;
+  margin: 2em 0;
+  h2{
+    color: white;
+  }
   .content{
     height: 100%;
     display: flex;
     flex-direction: row;
     .canvasStyle{
-      max-width: 50% !important;
+      min-height: 50vh;
+      min-width: 50%;
     }
     .deskCarac{
-
+      text-align: center;
+      margin: 0 auto;
     }
   }
 }

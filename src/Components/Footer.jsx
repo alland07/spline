@@ -1,7 +1,7 @@
 const Footer = () => {
   return(
     <footer id='footer'>
-      Bye
+      @AllanDUCHE CreatedWith @Spline3D
     </footer>
   )
 }
