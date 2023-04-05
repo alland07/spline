@@ -11,11 +11,11 @@ section, #caracteristiques{
     flex-direction: row;
     .canvasStyle{
       min-height: 50vh;
-      min-width: 50%;
+      min-width: 50vw;
     }
     .deskCarac{
-      text-align: center;
-      margin: 0 auto;
+      margin: auto 2em;
+      width: auto;
     }
   }
 }

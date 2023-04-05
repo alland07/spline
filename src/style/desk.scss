@@ -1,8 +1,9 @@
 section{
   &#desk {
     width: 100%;
-    padding: 2em 0;
+    padding-bottom: 2em;
     height: auto;
+    margin: 0;
     .scene{
       min-height: 90vh;
       canvas {

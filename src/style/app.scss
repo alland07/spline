@@ -8,8 +8,9 @@
 header{
   width: 100%;
   nav{
-    margin: 0 auto;
+    margin: 0;
     ul{
+      margin: 0;
       li{
         margin: 2em;
         display: inline-block;
@@ -23,5 +24,4 @@ header{
 @import 'desk';
 @import 'carac';
 @import 'colors';
-@import 'contact';
 @import 'footer';

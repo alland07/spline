@@ -4,8 +4,7 @@ const Menu = () => {
       <nav>
         <ul>
           <li><a href='#caracteristiques'>Caractéristiques</a></li>
-          <li><a href='#colors'>Couleurs</a></li>
-          <li><a href='#contact'>Contact</a></li>
+          <li><a href='#colors'>Bureau Granite</a></li>
         </ul>
       </nav>
     </header>
