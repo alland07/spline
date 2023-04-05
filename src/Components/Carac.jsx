@@ -6,7 +6,7 @@ const Carac = () => {
     <section id='caracteristiques'>
       <h2>Caractéristiques</h2>
       <div className='content'>
-        <Spline className={'canvasStyle'} scene="https://prod.spline.design/VcFomkg1shAqKtTp/scene.splinecode" />
+        <Spline className={'canvasStyle'} scene='https://prod.spline.design/VcFomkg1shAqKtTp/scene.splinecode' />
         <div className='deskCarac'>
           Content
         </div>
