@@ -1,7 +1,8 @@
 footer, #footer{
   display: flex;
   min-height: 5vh;
+  justify-content: center;
   p{
-    margin: auto;
+    margin: 2em;
   }
 }
