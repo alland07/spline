@@ -10,12 +10,13 @@ section, #caracteristiques{
     display: flex;
     flex-direction: row;
     .canvasStyle{
-      min-height: 50vh;
-      min-width: 50vw;
+      height: 100%;
+      width: 50%;
     }
     .deskCarac{
       margin: auto 2em;
       width: auto;
+      max-width: 50%;
     }
   }
 }

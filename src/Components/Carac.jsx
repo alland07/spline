@@ -4,9 +4,9 @@ import React from "react";
 const Carac = () => {
   return(
     <section id='caracteristiques'>
-      <h2>Caractéristiques</h2>
+      <h2>Bois</h2>
       <div className='content'>
-        <Spline className={'canvasStyle'} scene='https://prod.spline.design/VcFomkg1shAqKtTp/scene.splinecode' />
+        <Spline className='canvasStyle' scene='https://prod.spline.design/VcFomkg1shAqKtTp/scene.splinecode' />
         <div className='deskCarac'>
           <p>
             Un bureau classique est un choix pratique et fonctionnel pour toute personne qui travaille ou étudie à domicile.

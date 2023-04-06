@@ -1,3 +1,7 @@
-section, #footer{
-
+footer, #footer{
+  display: flex;
+  min-height: 5vh;
+  p{
+    margin: auto;
+  }
 }
